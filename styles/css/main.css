@@ -404,7 +404,7 @@ template {
 
 body {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 100%;
+  font-size: 1.2em;
   line-height: 1.7; }
 
 li {
@@ -413,6 +413,9 @@ li {
 a {
   text-decoration: none;
   color: #dd55; }
+
+abbr[title] {
+  text-decoration: none; }
 
 #css-zen-garden {
   color: #FFF; }
